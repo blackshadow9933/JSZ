@@ -447,7 +447,7 @@ https://cdn2.pishow.tv/live/115/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png", DD Bharathi
 https://cdn2.pishow.tv/live/174/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png", DD
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png", DD National
 https://cdn2.pishow.tv/live/178/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxNutSxGlgViiOZTtup2STh40abAW5Lap-8Ze178NRzfizTDWJF3jZpvZt&s=10", Dhaka FM
@@ -467,6 +467,73 @@ http://104.167.2.55:8000/￼Enterhttps://cdn.smartstream.video/smartstream-us/dy
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zLoUGiT.png",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/W3LGQYb/images-1.png", FNF FM
+https://eu6.fastcast4u.com:5099/;stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nmTMryR/images-2.png", Radio Padma
+https://cassini.shoutca.st:9109/radiopadma.mp3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Jzfcynk/images-3.png", Capital Radio
+https://str.radiocapital.fm:8000/stream
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qBTGHN5/images-4.png", Radio DinRat
+http://103.118.79.134:8000
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JC86gHn/images-14.jpg", Jago FM
+http://128.199.184.111:12496/;stream/1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VBrmr22/images-19.jpg", Peace Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jVRmQ8N/images-20.jpg", Nickelodeon
+https://d20opqftbkv2z0.cloudfront.net/live12/nickelodeon/bitrate1-clear.isml/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/cr9PNtT/images.webp", CN
+https://stream01.vnet.am/Kinosemya/mono.m3u8?tlfaz.com
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YBmFyCk/images-1.webp", Disney JR
+https://nxt.plus:8443/live/jesus01/jesus01/16909.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8rpqM48/images-2.webp", Sonic
+http://103.84.57.155:8000/play/a03y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vt9MwnH/images-3.webp", Hungama
+http://103.84.57.155:8000/play/a03t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RCFCDG6/images-6.png", NAT GEO WILD
+http://103.84.57.155:8000/play/a02c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/28mCNVf/images-7.png", Animal Planet
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/s9Jh1CS/images-21.jpg", Premium Movie
+http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZcQ2b9M/entree10-16x9.jpg", Enter 10
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z1bNKht/images-5.png", NOVA SPORTS
+https://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31571/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xDDx80Q/star-sports-1-hindi.webp", Star Sports 1
+http://119.156.26.155:8000/play/a069/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mXzKX0V/images-16.jpg", Star Sports 2
+http://217.20.112.199/starplushd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nn07zfh/images-17.jpg", Star Sports 3
+http://119.156.26.155:8000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/68dxR5k/images-18.jpg", Star Sports Select 1
+http://119.156.26.155:8000/play/a07f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/4gBhpb4/images-15.jpg", Star Sports Select 2
+http://119.156.26.155:8000/play/a07g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SmR8MRX/Fox-sports-1-10s.png", Fox Sports 1
+https://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9SmkAlMtGkuAjW9u5AqYABholjB1NTJcLt7X9MaQH7oCj2E6HHZbRchdx&s=10",Jonack
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
@@ -491,9 +558,6 @@ https://cdn2.pishow.tv/live/270/master.m3u8
 
 F:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP-ro0bO-7Ddm58cDVkf57XErDAUgRoRjsigvByN3dO4DF3E-OUFL_GGI&s=10", DD Sports
 https://cdn1.pishow.tv/live/187/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSica3chpLVB_Ryr8QT-qnxqk5clR8ou1WscprqdD9w8Cu-YwB9bUcm6OXS&s=10", Music India
-https://cdn2.pishow.tv/live/135/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAQ9tt4SXAfLkPkT__4-VBCJJxZkn0syS_ZA&s", 9X Music
 https://cdn2.pishow.tv/live/137/master.m3u8
