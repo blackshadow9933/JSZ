@@ -22,7 +22,7 @@ https://global.ncare.live/live-orgin/deentv.stream/playlist.m3u8
 #EXTINF:-1 ,tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mcjICfjqYwOn4eljNmtsZLBpOmW0t0JlzJUhXSslAkBVo=s900-c-k-c0x00ffffff-no-rj"DBC News
 https://global.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8 
 
-#EXTINF:-1 ,tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAAEGCAMAAAAExGooAAABR1BMVEXyAAH////yAADxAAArCAYAAAD4m5v1AAD3AAD4nZ77AAD5oKD6urr5oqL6vb36t7f7yMjzLS0pAAD7ysomAAAhAAD3jIz1U1P+8fEdAAD/+vr80NASAAD5qKj81dUnBwX95OQZAAD6sbH95+f1Z2f3hYX0RET1YGAACQf4lZUUAAD3goL93Nz2b2/zJSXz8vL2enryFhZtYF/b2Nj0Pj7GwcH0Skr1V1epGBgyExK5s7OQhoblDw+jm5vzMzNWRURnEhE+JiXCExNEEhCPEhHo5uayrKzKExN+cnKAAABdTU1iFRTSz85XAACqAADXDw+ZDw59FRRRFBPQFhYmFRQ6Hx5LODe1GBdCQD9tbm6OAABABQEyKypxAADWAACtAADNKChhXVxXExI3Dw55Q0KOlJNMSUiBXV3IqamuYF+tlpZ0ExIfHB"Asian TV
+#EXTINF:-1 ,tvg-logo="https://i.ibb.co.com/G2v7jbr/images-5.jpg"Asian TV
 https://global.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8 
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRSv9h0van5gKo3RJOZrg6xCm0Gm7Vtn-n7zXJyt5_dacxXgamhe2liR4&s=10"Ananda TV 
@@ -175,7 +175,7 @@ https://global.ncare.live/live-orgin/greentv.stream/playlist.m3u8
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZZQvwqS1XoGHPIRLKydTrC0lG6H2nX47lUwtwnQX7F4B4WYk2YLKL5OL&s=10"DW News
 https://global.ncare.live/live-orgin/dwnews.stream/playlist.m3u8
 
-5#EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg"Massranga Tv
+5#EXTINF:-1 ,tvg-logo="https://i.ibb.co.com/ZMk0By3/images-12.jpg"Massranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-4Ki8dMeFJ6QIOIX1W3uGut9KkDxx6xNdVQ&usqp=CAU"T Sports 
