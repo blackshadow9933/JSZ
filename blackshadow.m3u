@@ -179,7 +179,7 @@ https://global.ncare.live/live-orgin/dwnews.stream/playlist.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-4Ki8dMeFJ6QIOIX1W3uGut9KkDxx6xNdVQ&usqp=CAU"T Sports 
-https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8
+https://hello-people-tv-auto-update.tiiny.io/?id=t_sports
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsAizFrYCuzLXMT2ERYApt92zPT53hcNWWLxzNFKzLn5zQHrhqETi3mIU&s=10"Movie Plus 
 http://cdn1.pishow.tv/live/222/master.m3u8
@@ -239,7 +239,8 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://toffe.top/images/Zeebanglacinema.png", Zee Bangla Cinema https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema1/default/index.m3u8 #EXTINF:-1 tvg-logo="http://toffe.top/images/sonymax.jpg", Sony Max 
 http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/185.m3u8 
 
-#EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonyaath-live/revamp/channel_images/15_wah_0_2023_12_05_15_35_52.png", Sony Wah http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/187.m3u8 
+#EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonyaath-live/revamp/channel_images/15_wah_0_2023_12_05_15_35_52.png", Sony Wah 
+http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/187.m3u8 
 
 #EXTINF:-1 tvg-logo="http://toffe.top/images/zeecinema.jpg", Zee Cinema SD 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema1/default/index.m3u8 
@@ -259,7 +260,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv1/default/index.m3u8
 #EXTINF:-1 tvg-logo="http://toffe.top/images/Zee%20Tv1664974411.png", Zee TV HD 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd1/default/index.m3u8 
 
-#EXTINF:-1 tvg-logo="http://toffe.top/images/starplus.png", Star Plus HD http://217.20.112.199/starplushd/index.m3u8 #EXTINF:-1 tvg-logo="http://toffe.top/images/stargold.png", Star Gold HD 
+#EXTINF:-1 tvg-logo="http://toffe.top/images/starplus.png", Star Plus HD 
+http://217.20.112.199/starplushd/index.m3u8 
+
+#EXTINF:-1 tvg-logo="http://toffe.top/images/stargold.png", Star Gold HD 
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-HD/live.mpd 
 
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg", Bollywood HD
@@ -271,7 +275,8 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2e8LNjHCh-fMGMHR9DKdVQpSFpQrWwQsYIA&usqp=CAU", Movie Club 
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="http://toffe.top/images/jalshamovies.png", Jalsha Movies http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/4280/117.m3u8 
+#EXTINF:-1 tvg-logo="http://toffe.top/images/jalshamovies.png", Jalsha Movies 
+http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/4280/117.m3u8 
 
 #EXTINF:-1 tvg-logo="http://toffe.top/images/sonyath.png", Sony Aath
 https://tv.cloudcdn.online/live/00:1A:79:A4:26:62/4280/44150.m3u8
