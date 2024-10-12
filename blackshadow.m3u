@@ -175,7 +175,7 @@ https://global.ncare.live/live-orgin/greentv.stream/playlist.m3u8
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZZQvwqS1XoGHPIRLKydTrC0lG6H2nX47lUwtwnQX7F4B4WYk2YLKL5OL&s=10"DW News
 https://global.ncare.live/live-orgin/dwnews.stream/playlist.m3u8
 
-5#EXTINF:-1 ,tvg-logo="https://i.ibb.co.com/ZMk0By3/images-12.jpg"Massranga Tv
+5#EXTINF:-1 ,tvg-logo="https://i.ibb.co.com/ZMk0By3/images-12.jpg" Massranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-4Ki8dMeFJ6QIOIX1W3uGut9KkDxx6xNdVQ&usqp=CAU"T Sports 
@@ -222,7 +222,7 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://toffe.top/images/starjalsha.png", Star Jalsha SD 
-http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd 
+http://217.20.112.199/starjalshahd/index.m3u8 
 
 #EXTINF:-1 tvg-logo="http://toffe.top/images/starjalsha.png", Star Jalsha HD 
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/4280/116.m3u8 
@@ -233,10 +233,16 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla1/default/index.m3u8
 #EXTINF:-1 tvg-logo="http://toffe.top/images/zeebangla.png", Zee Bangla HD 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd1/default/index.m3u8 
 
-#EXTINF:-1 tvg-logo="http://toffe.top/images/colorsbn.png", Colors Bangla http://217.20.112.199/colorsbangla/index.m3u8 #EXTINF:-1 tvg-logo="http://toffe.top/images/entertain.png", Enter10 Bangla 
+#EXTINF:-1 tvg-logo="http://toffe.top/images/colorsbn.png", Colors Bangla 
+http://217.20.112.199/colorsbangla/index.m3u8 
+
+#EXTINF:-1 tvg-logo="http://toffe.top/images/entertain.png", Enter10 Bangla 
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="http://toffe.top/images/Zeebanglacinema.png", Zee Bangla Cinema https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema1/default/index.m3u8 #EXTINF:-1 tvg-logo="http://toffe.top/images/sonymax.jpg", Sony Max 
+#EXTINF:-1 tvg-logo="http://toffe.top/images/Zeebanglacinema.png", Zee Bangla Cinema 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema1/default/index.m3u8 
+
+#EXTINF:-1 tvg-logo="http://toffe.top/images/sonymax.jpg", Sony Max 
 http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/185.m3u8 
 
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonyaath-live/revamp/channel_images/15_wah_0_2023_12_05_15_35_52.png", Sony Wah 
@@ -463,7 +469,10 @@ https://stream.zeno.fm/umq9q5uuva5tv
 https://stream.zeno.fm/0zha3rfq02quv
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRPEiforgwlaKRjg6h3RtdQeBYz0GLVQoUy4dgrPVnEmcGgWK5F-HCmVc&s=10", Live Quran
-http://104.167.2.55:8000/￼Enterhttps://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
+http://185.105.4.106:1935/live/bahrainquran/chunklist_w779953474.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png",DY 365
+https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zLoUGiT.png",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
