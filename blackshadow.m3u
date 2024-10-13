@@ -143,34 +143,34 @@ https://app.jagobd.com.bd/live-orgin/makkahtv.stream/playlist.m3u8
 https://app.jagobd.com.bd/live-orgin/madanitvbangla.stream/playlist.m3u8 
 
 #EXTINF:-1 ,tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kmrep5J46DnClPnWJl_LrJrPVNTytgp1tBgu5oYm-eLw=s900-c-k-c0x00ffffff-no-rj"JonmoBhumi TV 
-https://global.ncare.live/live-orgin/jonmobhumitv.stream/playlist.m3u8 
+https://app.jagobd.com.bd/live-orgin/jonmobhumitv.stream/playlist.m3u8
 
-#EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMzglzD00vjLUOHR7D9sUki2btBvXn2jlDHippV4W0y7-2iZMWmmTwr0X&s=10"Jamuna TV 
-https://global.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8 
+#EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.chttps://app.jagobd.com.bd/live-orgin/jonmobhumitv.stream/playlist.m3u8om/images?q=tbn:ANd9GcQqMzglzD00vjLUOHR7D9sUki2btBvXn2jlDHippV4W0y7-2iZMWmmTwr0X&s=10"Jamuna TV 
+https://app.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8 
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ1tH7un196PJNQqEHq3PxhGUmyK8RFP-EXwdNOMoM3q-aWyUqKQiG4XE&s=10"Jagoroni TV 
-https://global.ncare.live/live-orgin/jagoronitv.stream/playlist.m3u8 
+https://app.jagobd.com.bd/live-orgin/jagoronitv.stream/playlist.m3u8  
 
 #EXTINF:-1 ,tvg-logo="data:image/png;base64,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"JagoNews24 TV 
-https://global.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8 
+https://app.jagobd.com.bd/live-orgin/jagonews24.stream/playlist.m3u8 
 
 #EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Islam_Channel_logo.jpg"Islam TV 
-https://global.ncare.live/live-orgin/islamtv.stream/playlist.m3u8 
+https://app.jagobd.com.bd/live-orgin/islamtv.stream/playlist.m3u8 
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3L_ZyqqhB3GKGd-tzK6jyUKW8eDeReWHuJ8gJUrTzhhKqJxwNziCjBn8&s=10"Iqra Bangla 
-https://global.ncare.live/live-orgin/iqrabanglatvoffice.stream/playlist.m3u8 
+https://app.jagobd.com.bd/live-orgin/iqrabanglatvoffice.stream/playlist.m3u8 
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIweY-wyEYsJON0inPkWpELP8NVhiNwp7j02cGAZkxqyu9QaeSlKrAAZs&s=10"iON TV UK 
-https://global.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8 
+https://app.jagobd.com.bd/live-orgin/iontvuk.stream/playlist.m3u8 
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EnxMKoBQvWpoqa6WchdaWz1ROQNzXjVbi_g_BFXEQPwf7PCc55WzbJY&s=10"Independent TV 
-https://global.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8 
+https://app.jagobd.com.bd/live-orgin/independent-8-org.stream/playlist.m3u8
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0sgVq8xyxEB1S_cWW64OuQIGU07rtGZh9PaNruJ9ZA5ruemPqpcpm3o&s=10"Green TV 
 https://global.ncare.live/live-orgin/greentv.stream/playlist.m3u8 
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiZZQvwqS1XoGHPIRLKydTrC0lG6H2nX47lUwtwnQX7F4B4WYk2YLKL5OL&s=10"DW News
-https://global.ncare.live/live-orgin/dwnews.stream/playlist.m3u8
+https://app.jagobd.com.bd/live-orgin/dwnews.stream/playlist.m3u8
 
 5#EXTINF:-1 ,tvg-logo="https://i.ibb.co.com/ZMk0By3/images-12.jpg" Massranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
