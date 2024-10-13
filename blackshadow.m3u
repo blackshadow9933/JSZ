@@ -2,10 +2,10 @@
 
 
 #EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png"BTV HD 
-https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8  
+https://app.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8 
 
 #EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/496px-Ekushey_Television_Logo.svg.png?20211105182647"Ekushey TV 
-https://ekusheyserver.com/etvlivesn.m3u8
+https://app.jagobd.com.bd/live-orgin/ekusheytv-8-org.stream/playlist.m3u8 
 
 #EXTINF:-1 ,tvg-logo="https://i.ibb.co/1m0bGGS/20240803-102251.png"Khushboo Bangla
 https://cdn3.pishow.tv/live/283/master.m3u8
@@ -26,22 +26,22 @@ https://mtlivestream.com/asian/ytlive/index.m3u8
 https://livess.ncare.live/live-orgin/anandatv.stream/playlist.m3u8 
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4Ltbk9ahQHafWVVtL47YRcPnQGHuJQgkbAuu04_Z69-78WlsvBM0BdAB&s=10"Colosal TV
-https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/playlist.m3u8 
+https://app.jagobd.com.bd/live-orgin/colosal.stream/playlist.m3u8
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCxCzI8gIAq2VY13LOY_ZUKTY3UBH2kcYk0OdDMv5pf8pyaNf6ssHuKWo&s=10"Channel I 
-https://global.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8 
+https://app.jagobd.com.bd/live-orgin/channeli-8-org.stream/playlist.m3u8 
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGVA97upfoT1wEwbE8bxnRIWulDWgUteVXHd6XyzXQABYaGsP6FKVXGIpS&s=10"Channel Europe 
-https://global.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8 
+https://app.jagobd.com.bd/live-orgin/channeleurope.stream/playlist.m3u8
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOVFGrcPxUqHkmrFjVdQnX7LZv58G3u1WD-SZnWl8F6_W4YMDqKV5uqYs&s=10"CGTN News 
-https://global.ncare.live/live-orgin/cgtn.stream/playlist.m3u8 
+https://app.jagobd.com.bd/live-orgin/cgtn.stream/playlist.m3u8 
 
 #EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png"CGTN Documentary 
-https://global.ncare.live/live-orgin/cgtndoc.stream/playlist.m3u8 
+https://app.jagobd.com.bd/live-orgin/cgtndoc.stream/playlist.m3u8
 
 #EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png"Boishakhi TV 
-https://global.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8 
+https://app.jagobd.com.bd/live-orgin/boishakhitv-org.stream/playlist.m3u8  
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo70-sxW1iAFj1mQxFX7U6tC08rwFq0lZqV0MdpCZrEXrtHQslnKDi5v4J&s=10"Biswa Bangla 24 
 https://global.ncare.live/live-orgin/biswabanglatv.stream/playlist.m3u8 
