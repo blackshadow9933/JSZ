@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png"BTV HD 
-http://global.ncare.live/live-orgin/btvbd-office-sg.stream/playlist.m3u8 
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8  
 
 #EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/496px-Ekushey_Television_Logo.svg.png?20211105182647"Ekushey TV 
 https://ekusheyserver.com/etvlivesn.m3u8
@@ -13,7 +13,7 @@ https://cdn3.pishow.tv/live/283/master.m3u8
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYX3XSue9rhiGV6WaihT1GtCq8279LVsbPiCWxK5Yg1amfDX7IqQBkZbFJ&s=10"Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?
 
-#EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqNkoRNI58-WEYEJ6IGoCszOkHHBpA41RXNTZfDiszJxwgnYFhGfXRTqym&s=10"Mon Bangla
+#EXTINF:-1 ,tvg-logo="https://www.fredflix.xyz/upload/Web%20best%20logo/mon-tv-bangla.png"Mon Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8 
 
 #EXTINF:-1 ,tvg-logo="https://i.ibb.co/RHN0sPn/20240803-164432.png"Akash Aath
@@ -26,7 +26,7 @@ https://mtlivestream.com/asian/ytlive/index.m3u8
 https://livess.ncare.live/live-orgin/anandatv.stream/playlist.m3u8 
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD4Ltbk9ahQHafWVVtL47YRcPnQGHuJQgkbAuu04_Z69-78WlsvBM0BdAB&s=10"Colosal TV
-https://global.ncare.live/live-orgin/colosal.stream/playlist.m3u8 
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/playlist.m3u8 
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCxCzI8gIAq2VY13LOY_ZUKTY3UBH2kcYk0OdDMv5pf8pyaNf6ssHuKWo&s=10"Channel I 
 https://global.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8 
@@ -47,7 +47,7 @@ https://global.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8
 https://global.ncare.live/live-orgin/biswabanglatv.stream/playlist.m3u8 
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPPCMClssqdHLMM4c2DSia0khCc9CobBm8s1yHZMG3GBkBeyuRx5ln7xdYBcRN26NrbqKfPq1AUBiboDJrEQRFJ_MeH8N02o_9YwmzQw"ATN News 
-https://global.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8 
+https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8 
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxiKRo6RtgM2eXjsI4j92BLvQ5xOzWA_hlg&s"Banglavision HD 
 https://global.ncare.live/live-orgin/banglav000.stream/playlist.m3u8 
@@ -176,7 +176,7 @@ https://global.ncare.live/live-orgin/dwnews.stream/playlist.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-4Ki8dMeFJ6QIOIX1W3uGut9KkDxx6xNdVQ&usqp=CAU"T Sports 
-https://hello-people-tv-auto-update.tiiny.io/?id=t_sports
+http://172.25.25.30:8082/roarzone/bk/102/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsAizFrYCuzLXMT2ERYApt92zPT53hcNWWLxzNFKzLn5zQHrhqETi3mIU&s=10"Movie Plus 
 http://cdn1.pishow.tv/live/222/master.m3u8
