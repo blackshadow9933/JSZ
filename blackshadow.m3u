@@ -1,10 +1,10 @@
 #EXTM3U 
 
 
-#EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" BTV HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png" BTV HD 
 https://app.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8 
 
-#EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/496px-Ekushey_Television_Logo.svg.png?20211105182647" Ekushey TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/496px-Ekushey_Television_Logo.svg.png?20211105182647" Ekushey TV 
 https://app.jagobd.com.bd/live-orgin/ekusheytv-8-org.stream/playlist.m3u8 
 
 #EXTINF:-1 ,tvg-logo="https://i.ibb.co/1m0bGGS/20240803-102251.png" Khushboo Bangla
@@ -46,7 +46,10 @@ https://app.jagobd.com.bd/live-orgin/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo70-sxW1iAFj1mQxFX7U6tC08rwFq0lZqV0MdpCZrEXrtHQslnKDi5v4J&s=10" Biswa Bangla 24 
 https://app.jagobd.com.bd/live-orgin/biswabanglatv.stream/playlist.m3u8
 
-#EXTINF:-1 ,tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPPCMClssqdHLMM4c2DSia0khCc9CobBm8s1yHZMG3GBkBeyuRx5ln7xdYBcRN26NrbqKfPq1AUBiboDJrEQRFJ_MeH8N02o_9YwmzQw" ATN News 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPPCMClssqdHLMM4c2DSia0khCc9CobBm8s1yHZMG3GBkBeyuRx5ln7xdYBcRN26NrbqKfPq1AUBiboDJrEQRFJ_MeH8N02o_9YwmzQw" ATN News 
+https://app.jagobd.com.bd/live-orgin/atnws-sg.stream/playlist.m3u8
+
+EXTINF:-1 tvg-logo="https://www.atnmusictv.com/images/logo.png" ATN Music 
 https://app.jagobd.com.bd/live-orgin/bijoy00.stream/playlist.m3u8
 
 #EXTINF:-1 ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxiKRo6RtgM2eXjsI4j92BLvQ5xOzWA_hlg&s" Banglavision HD 
