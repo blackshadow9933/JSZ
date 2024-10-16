@@ -439,6 +439,30 @@ https://cdn2.pishow.tv/live/140/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIDRG94qrCoIVsJFTQcuSYG3PYRYYNCVVyfadTlZF6dtVwx0txkF7mHac&s=10", B4U Music
 https://cdn2.pishow.tv/live/141/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RfyTmjg/20241016-073402.png" group-title="SPORTS", Soco Live 
+https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1729042706-0-0-94866ca35593a4de8b038dcd004a453f 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtbtLMkpabzboj1J0yCJHrCrrcdEFqbfst_NrLJfyl2jz80hikm1eT_N43&s=10" group-title="SPORTS", Soco Live
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=d6682d93b83ff5f475eb17e9258fbd1a&txTime=670f576a 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfW7yvfkSZiEWoztMhOwOQspy4np9qoGXnchuF6JeRJC3SMOBH51U4Ambp&s=10" group-title="SPORTS", Tsports 
+http://tv.cloudcdn.me/live/00:1A:79:B7:2F:EA/SN_1697176355/48010.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports 
+https://fifabd.xyz/TTT/play.m3u8?id=2&q=720    
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvt1tJyj/20241008-193409.jpg" group-title="SPORTS", Tofee
+https://stream.imotv.online/toffe/live.php?id=9864cbf691c0&e=.m3u8 
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61JxXK7hNDL.png" group-title="Grope Name", Sony Live 
+https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/master_mdh.m3u8?adstack=DAI-IMA&hdnea=exp=1729000206~acl=/*~id=9304fc4ef45e42a3a731c83d4667ede1-1724827446704~hmac=c4de04652d0941ad99ddfcc6a3a33f8267497b1c1dd27ed25c203fc55d1e9894 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhhtFkCr/20241015-123346.png" group-title="SPORTS", Willow by Cricbuzz 
+https://billing.tfms.xyz/https://mymhdtvworld.com/live/stream.m3u8?id=5ae6ba4835bfd9b8399e61422a8feadd 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbO5pcAGmhMMaqRWj6Xy2m9RsViMtGQdZ60kEiy7hGFUV3iEtsqsFnvbOA&s=10" group-title="Grope Name", Fifa Pulas
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545 
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvO04xorIj0V1yHmnHOdyVHZVh1Mi9oGmquKEYFHdYTTCSHB2v7KYLb0g&s=10" group-title="SPORTS", Mu Tv
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8  
 
