@@ -6,6 +6,9 @@ https://cdn3.pishow.tv/live/283/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYX3XSue9rhiGV6WaihT1GtCq8279LVsbPiCWxK5Yg1amfDX7IqQBkZbFJ&s=10", Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmfQOJ6iuEWfBMiUwVK1izVj0dH2XHvc9GFchFhtPBbvPoxkeL3KIgxb8&s=10", Amar Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8 
+
 #EXTINF:-1 tvg-logo="https://www.fredflix.xyz/upload/Web%20best%20logo/mon-tv-bangla.png", Mon Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8 
 
