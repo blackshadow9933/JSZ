@@ -172,7 +172,7 @@ http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/4280/116.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla1/default/index.m3u8 
 
 #EXTINF:-1 tvg-logo="http://toffe.top/images/zeebangla.png", Zee Bangla HD 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd1/default/index.m3u8 
+http://217.20.112.199/zeebangla/index.m3u8 
 
 #EXTINF:-1 tvg-logo="http://toffe.top/images/colorsbn.png", Colors Bangla 
 http://217.20.112.199/colorsbangla/index.m3u8 
@@ -223,7 +223,7 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="http://toffe.top/images/jalshamovies.png", Jalsha Movies 
-http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/4280/117.m3u8 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2187.m3u8 
 
 #EXTINF:-1 tvg-logo="http://toffe.top/images/sonyath.png", Sony Aath
 https://tv.cloudcdn.online/live/00:1A:79:A4:26:62/4280/44150.m3u8
@@ -537,7 +537,7 @@ https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1729042706-0-0-948
 https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=d6682d93b83ff5f475eb17e9258fbd1a&txTime=670f576a 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports 
-https://fifabd.xyz/TTT/play.m3u8?id=2&q=720    
+https://yt3.googleusercontent.com/yGbA7wHYbj_KXDN4Q7IP4P8ADErUQX6SYJotTN35Kjes6ufM7Kua15xVqzCfq_IEfz8nAlr3=s900-c-k-c0x00ffffff-no-rj ion/30/maudio/1/gcr/bd/spc/54MbxXxOMkYqizNLLlc8P1TIlMFZ05zYYPwJJMI9imn_5fpl1VFTyQV-VHX-_bw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51319288/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgeRvtf1fExDlavUELNHjGjYczF4ZVciQBF2yuk9dV_sACIGQ39CMDrYpge-EDqpBQmAIyglicMqusU1V2yyl0vNlo/file/index.m3u8    
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvt1tJyj/20241008-193409.jpg" group-title="SPORTS", Tofee
 https://stream.imotv.online/toffe/live.php?id=9864cbf691c0&e=.m3u8 
