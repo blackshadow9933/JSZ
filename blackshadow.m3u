@@ -12,6 +12,24 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://s.id/pytF4" group-title="",ATN News
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
 
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxqmVW1g8F9AilXAR78JdFwjxx38RyuI3m4OgKySNx2NpS1kr9T3Bl_Ow&s=10" group-title="BANGLADESH", Atn Music
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/ed/Duronto_TV_logo.png/revision/latest/scale-to-width-down/340?cb=20230525082520" group-title="BANGLADESH", Duronto 
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2352.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwEaAMuqIa183fgYzhAkTSjOw7bwPWXHaAmp7lAJu77DGfScrO6ymBOQs&s=10" group-title="BANGLADESH", Akhon Tv
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8 
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/YSd6fbFs/20241019-180946.jpg",Ruposhi Bangla 
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8 
+
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.postimg.cc/hPRdmHwG/20241019-181427.jpg",Anondo Tv
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDR8bxBT7A3jUhLsLl-K_HdY1oloAD_kiIK9ghsdugDaIOS0D7tsw4QIo&s=10" group-title="BANGLADESH", Desh Tv
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2351.m3u8 
+
 #EXTINF:-1 tvg-logo="https://www.pinterest.com/pin/srk-letter-logo-design-in-illustration-vector-logo-calligraphy-designs-for-logo-poster-invitation-etc--927952698205702565/" group-title="",Srk TV 
 https://cdn.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8
 
@@ -31,13 +49,13 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjE2OjE4IFBNJmhhc2hfdmFsdWU9NnJQR3BZUld1V3FnQVAwYmJsUGNnUT09JnZhbGlkbWludXRlcz00MA==
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/bHThL1h/unnamed-1.png" group-title="", Millennium TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjE3OjExIFBNJmhhc2hfdmFsdWU9Q2JUMVBjenI1TG1RUlYvL1hucjJNUT09JnZhbGlkbWludXRlcz00MA==
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xmtBpRK/images.jpg" group-title="",Iqra bangla
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjEwOjQ3IFBNJmhhc2hfdmFsdWU9NXptSEdGV1hVVFVMaFE4aUxIZjRsQT09JnZhbGlkbWludXRlcz00MA==
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Mc474bP/images-1.png" group-title="",Maasranga TV
-https://edge01.iptv.digijadoo.net/live/maasranga/playlist.m3u8?md5=VU6GYxZvt9KOq43NfsnKvQ&expires=1729290452&user=c15be118d93a464dabf77260596012cf
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2359.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/x7NkJJH/images-2.jpg" group-title="", Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
