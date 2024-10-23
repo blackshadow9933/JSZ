@@ -509,10 +509,10 @@ https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1729042706-0-0-948
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtbtLMkpabzboj1J0yCJHrCrrcdEFqbfst_NrLJfyl2jz80hikm1eT_N43&s=10" group-title="SPORTS", Soco Live
 https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=d6682d93b83ff5f475eb17e9258fbd1a&txTime=670f576a 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports 
-https://yt3.googleusercontent.com/yGbA7wHYbj_KXDN4Q7IP4P8ADErUQX6SYJotTN35Kjes6ufM7Kua15xVqzCfq_IEfz8nAlr3=s900-c-k-c0x00ffffff-no-rj ion/30/maudio/1/gcr/bd/spc/54MbxXxOMkYqizNLLlc8P1TIlMFZ05zYYPwJJMI9imn_5fpl1VFTyQV-VHX-_bw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51319288/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgeRvtf1fExDlavUELNHjGjYczF4ZVciQBF2yuk9dV_sACIGQ39CMDrYpge-EDqpBQmAIyglicMqusU1V2yyl0vNlo/file/index.m3u8    
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpjL1fCZ/20241005-165038.png" group-title="SPORTS", Tsports     
+https://cdn.livestreambd.com/TSports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvt1tJyj/20241008-193409.jpg" group-title="SPORTS", Tofee
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bvt1tJyj/20241008-193409.jpg" group-title="SPORTS", Toffee
 https://stream.imotv.online/toffe/live.php?id=9864cbf691c0&e=.m3u8 
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61JxXK7hNDL.png" group-title="Grope Name", Sony Live 
