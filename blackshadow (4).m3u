@@ -192,7 +192,6 @@ http://103.101.197.10:8989/M_Movies/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tara-bangla-cinema.png", TARA BANGLA 
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://toffe.top/images/starjalsha.png", Star Jalsha SD 
 http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/4280/116.m3u8 
 
@@ -218,33 +217,9 @@ http://176.119.29.52/live/00:1A:79:C3:81:30/1360/119.m3u8
 http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/185.m3u8 
 
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonyaath-live/revamp/channel_images/15_wah_0_2023_12_05_15_35_52.png", Sony Wah 
-http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/187.m3u8 
+http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/187.m3u8  
 
-EXTINF:-1 tvg-logo="http://toffe.top/images/zeecinema.jpg", Zee Cinema SD 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema1/default/index.m3u8 
-
-EXTINF:-1 tvg-logo="http://toffe.top/images/zeecinema.jpg", Zee Cinema HD 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd1/default/index.m3u8 
-
-EXTINF:-1 tvg-logo="http://toffe.top/images/andpicture.png", And Pictures SD 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures1/default/index.m3u8 
-
-EXTINF:-1 tvg-logo="http://toffe.top/images/andpicture.png", And Pictures HD 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd1/default/index.m3u8 
-
-EXTINF:-1 tvg-logo="http://toffe.top/images/Zee%20Tv1664974411.png", Zee TV SD 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv1/default/index.m3u8 
-
-EXTINF:-1 tvg-logo="http://toffe.top/images/Zee%20Tv1664974411.png", Zee TV HD 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd1/default/index.m3u8 
-
-EXTINF:-1 tvg-logo="http://toffe.top/images/starplus.png", Star Plus HD 
-http://103.124.251.164:28015/play/a00o/index.m3u8 
-
-EXTINF:-1 tvg-logo="http://toffe.top/images/stargold.png", Star Gold HD 
-http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-HD/live.mpd 
-
-EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg", Bollywood HD
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg", Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KY8MdpPq/images-13.jpg", Sheemaro Bollywood 
