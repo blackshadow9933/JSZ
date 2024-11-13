@@ -31,7 +31,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V60v1jDy/Desh-TV-Live.png" group-title="BANGLADESH", Desh Tv
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/2351.m3u8 
+https://app.ncare.live/live-orgin/deshtv.stream/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k5vt5C4n/SRK-letter-logo-design-in-illustration-Vector-logo-calligraphy-designs-for-logo-Poster-Invitatio.jpg" group-title="",Srk TV 
 https://cdn.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8
@@ -65,6 +65,9 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/j6GTyB1/images-3.jpg",Discovery Kids
 https://matharchod.vercel.app/api/Discovery_Kids.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/Ten-Prime.jpg",E TEN TV PRIME
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tenprime.stream/live-orgin/tenprime.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qdfC3g9/images-2.jpg" group-title="",News 24
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAyOjE5OjUzIFBNJmhhc2hfdmFsdWU9dDV2TlpGTUFWUzYyODZndmtsOGphUT09JnZhbGlkbWludXRlcz00MA==
@@ -130,7 +133,7 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w818
 https://mytvbangla.com/0.m3u8 
 
 #EXTINF:-1 https://i.postimg.cc/7P0bPDQj/images-2.png", N TV
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=5149cfic&e=.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/live-orgin/ntvuk00332211.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/3prfvpv/20240917-134942.png", MOVIE BANGLA 
 http://alvetv.com/moviebanglatv/8080/index.m3u8
