@@ -406,6 +406,9 @@ https://nxt.plus:8443/live/jesus01/jesus01/16909.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8rpqM48/images-2.webp", Sonic
 http://103.84.57.155:8000/play/a03y/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt57oT9aoLgZMRFbNnOglFW18DqU7mr-RTR-S2cvAr88_n4-pZtHiuKQIx&s=10", Discovery 
+https://tiger-hub.vercel.app/Mehedi_Hassan_discovery.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vt9MwnH/images-3.webp", Hungama
 http://103.84.57.155:8000/play/a03t/index.m3u8
 
