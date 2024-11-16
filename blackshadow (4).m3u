@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/256/6028/6028690.png" group-title="", INTRO
 https://imgur.com/yf8Qylg.mp4
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/tHTL2n0TEHm873IRXANFR8eOSXy.jpg" group-title="", Dorod Movie
+https://poltulive.site/themes/v1//assets/movie.mp4
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/76gZRqK0/BTV-World.png" group-title="", BTV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
 
@@ -15,7 +18,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wMgDBrT2/ATN-News.png" group-title="",ATN News
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://i.postimg.cc/0QdZyPnb/ATN-Music-TV.png" group-title="BANGLADESH", Atn Music
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QdZyPnb/ATN-Music-TV.png" group-title="BANGLADESH", Atn Music
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/ed/Duronto_TV_logo.png" group-title="BANGLADESH", Duronto 
